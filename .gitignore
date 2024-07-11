@@ -33,5 +33,5 @@
 
 
 .vs/
-bin/
+/bin/
 Intermediate/
